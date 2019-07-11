@@ -5,8 +5,8 @@
 
 # Travel options
 
-There is no airline operating dirct flights between Gdańsk and Budapest.
-To see why Vienna, Warszawa, Bratislava are involved in the plans, refer to the map on bottom of this doc.
+There is no airline operating direct flights between Gdańsk and Budapest.
+To see why Vienna, Warszawa, or Bratislava are involved in the plans, refer to the map on the bottom of this doc.
 
 ## Option #0 - 246 PLN
 Lowest travel cost, but need to spend one night at an airport
