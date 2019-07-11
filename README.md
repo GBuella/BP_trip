@@ -39,7 +39,8 @@ Spend one night in Bratislava, catch the flight from Vienna early morning
 | Sep  2. 08:05 | Vienna Flughafen | depart, Wizzair | 60
 | Sep  2. 09:40 | Gdańsk Port Lotniczy | land |
 
-# Option #2 - 417 PLN
+# Option #2 - 328 PLN
+One more day, and traveling via Warszawa instead of Vienna
 
 | When | Where | What | złoty |
 |------|-------|--------|--------|
@@ -47,8 +48,8 @@ Spend one night in Bratislava, catch the flight from Vienna early morning
 | Aug 30. 03:09 | Warszawa  | arrive | |
 | Aug 30. 06:10 | Warszawa Chopina | depart, Wizzair | 149
 | Aug 30. 07:25 | [Budapest Ferihegy](https://en.wikipedia.org/wiki/Budapest_Ferenc_Liszt_International_Airport) | arrive |
-| Aug 30. - Sep 2. | Budapest | TBD | a lot |
-| Sep  2. 08:00 | Budapest Ferihegy | depart, Wizzair | 189
-| Sep  2. 09:10 | Warszawa Chopina | land |
-| Sep  2. 13:39 | Warszawa | depart, Flixbus | 30
-| Sep  2. 18:40 | Gdańsk | arrive |
+| Aug 30. - Sep 3. | Budapest | TBD | a lot |
+| Sep  3. 08:00 | Budapest Ferihegy | depart, Wizzair | 100
+| Sep  3. 09:10 | Warszawa Chopina | land |
+| Sep  3. 13:30 | Warszawa | depart, Flixbus | 30
+| Sep  3. 18:40 | Gdańsk | arrive |
