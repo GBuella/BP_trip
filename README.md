@@ -6,7 +6,7 @@
 # Travel options
 
 There is no airline operating direct flights between Gdańsk and Budapest.
-To see why Vienna, Warszawa, or Bratislava are involved in the plans, refer to the map on the bottom of this doc.
+Therefore the possible routes go through Vienna, Warszawa, or Bratislava [^1].
 
 ## Option #0 - 246 PLN
 Lowest travel cost, but need to spend one night at an airport
@@ -57,4 +57,10 @@ One more day, and traveling via Warszawa instead of Vienna
 | Sep  3. 13:30 | Warszawa | depart, Flixbus | 30
 | Sep  3. 18:40 | Gdańsk | arrive |
 
-![](https://github.com/GBuella/BP_trip/blob/master/map.png)
+[^1]: ![](https://github.com/GBuella/BP_trip/blob/master/map.png)
+
+[^2]: To get from Vienna to Budapest:
+![](https://github.com/GBuella/BP_trip/blob/master/VI2BP.png)
+
+[^3]: To get from Budapest to Bratislava and then to Vienna:
+![](https://github.com/GBuella/BP_trip/blob/master/BP2VI.png)
