@@ -25,7 +25,7 @@ Lowest travel cost, but need to spend one night at an airport
 | Sep  2. 09:40 | Gdańsk Port Lotniczy | land |
 
 # Option #1 - 285 PLN
-Spend one night in Bratislava [[2]](#3-to-get-from-budapest-to-bratislava-and-then-to-vienna), catch the flight from Vienna early morning
+Spend one night in Bratislava [[3]](#3-to-get-from-budapest-to-bratislava-and-then-to-vienna), catch the flight from Vienna early morning
 
 | When | Where | What | złoty |
 |------|-------|--------|--------|
